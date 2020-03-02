@@ -33,3 +33,13 @@ MacOS
 - [wk-j.save-and-run](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run)
 
 This list was generated using the script in `scripts/vs-code-extensions.js`.
+
+## Diagram Drawing
+
+I have included this here as I wouldn't be able to do my job if I couldn't draw things with arrows + text. Currently, my go-to is <https://excalidraw.com/>.
+
+Excalidraw is:
+
+- Free.
+- No BS interface. You can draw shapes with arrows and annotations.
+- Easy to export to SVG/PNG or to get a direct link to the diagram.
