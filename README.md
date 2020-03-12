@@ -45,3 +45,9 @@ I like Excalidraw because:
 - It has a no BS interface.
 - Easy to export to SVG/PNG or to get a direct link to the diagram.
 - Live sharing at the touch of a button (also doesn't require logins).
+
+## Music
+
+Spotify for streaming service.
+
+Bose QC35II for headphones.
