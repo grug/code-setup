@@ -12,7 +12,7 @@ MacOS
 
 ### Font
 
-[Fira Code](https://github.com/tonsky/FiraCode)
+[Fira Code](https://github.com/tonsky/FiraCode). Ligatures enabled.
 
 ### Editor Plugins
 
