@@ -51,3 +51,7 @@ I like Excalidraw because:
 Spotify for streaming.
 
 Bose QC35II for headphones.
+
+## Microphone
+
+Antlion Audio ModMic
