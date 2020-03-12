@@ -1,6 +1,6 @@
-# code-setup
+# my-setup
 
-This is how I have my machine set up for development.
+This is my preferred development setup.
 
 ## Operating System
 
@@ -36,10 +36,12 @@ This list was generated using the script in `scripts/vs-code-extensions.js`.
 
 ## Diagram Drawing
 
-I have included this here as I wouldn't be able to do my job if I couldn't draw things with arrows + text. Currently, my go-to is <https://excalidraw.com/>.
+<https://excalidraw.com/>. 
 
-Excalidraw is:
+I like Excalidraw because:
 
-- Free.
-- No BS interface. You can draw shapes with arrows and annotations.
+- No logins required.
+- It's free.
+- It has a no BS interface.
 - Easy to export to SVG/PNG or to get a direct link to the diagram.
+- Live sharing at the touch of a button (also doesn't require logins).
