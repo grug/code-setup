@@ -48,6 +48,6 @@ I like Excalidraw because:
 
 ## Music
 
-Spotify for streaming service.
+Spotify for streaming.
 
 Bose QC35II for headphones.
