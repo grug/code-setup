@@ -36,7 +36,7 @@ This list was generated using the script in `scripts/vs-code-extensions.js`.
 
 ## Diagram Drawing
 
-<https://excalidraw.com/>. 
+<https://excalidraw.com/>
 
 I like Excalidraw because:
 
