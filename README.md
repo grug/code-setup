@@ -56,6 +56,10 @@ Bose QC35II for headphones.
 
 Antlion Audio ModMic
 
+This mic was recommended to me by a colleague and it's the perfect balance between great audio quality/capture and price.
+
 ## Screenshots
 
 [Skitch](https://evernote.com/products/skitch)
+
+Skitch is a fantastic screenshotting tool. Easy keyboard shortcuts, easy to add annotations/arrows/blurring to a screenshot and then you can just drag the screenshot into somewhere like Slack or GitHub PR and it automatically uploads for you. 
