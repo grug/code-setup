@@ -63,3 +63,9 @@ This mic was recommended to me by a colleague and it's the perfect balance betwe
 [Skitch](https://evernote.com/products/skitch)
 
 Skitch is a fantastic screenshotting tool. Easy keyboard shortcuts, easy to add annotations/arrows/blurring to a screenshot and then you can just drag the screenshot into somewhere like Slack or GitHub PR and it automatically uploads for you. 
+
+## Window Management
+
+[Spectacle](https://www.spectacleapp.com/)
+
+The out-of-the-box setup is good enough for me!
