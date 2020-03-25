@@ -2,6 +2,17 @@
 
 This is my preferred development setup.
 
+- [Operating System](#operating-system)
+- [Editor](#editor)
+  - [Font](#font)
+  - [Editor Plugins](#editor-plugins)
+- [Diagram Drawing](#diagram-drawing)
+- [Music](#music)
+- [Microphone](#microphone)
+- [Screenshots](#screenshots)
+- [Window Management](#window-management)
+- [Shell](#shell)
+
 ## Operating System
 
 MacOS
@@ -62,7 +73,7 @@ This mic was recommended to me by a colleague and it's the perfect balance betwe
 
 [Skitch](https://evernote.com/products/skitch)
 
-Skitch is a fantastic screenshotting tool. Easy keyboard shortcuts, easy to add annotations/arrows/blurring to a screenshot and then you can just drag the screenshot into somewhere like Slack or GitHub PR and it automatically uploads for you. 
+Skitch is a fantastic screenshotting tool. Easy keyboard shortcuts, easy to add annotations/arrows/blurring to a screenshot and then you can just drag the screenshot into somewhere like Slack or GitHub PR and it automatically uploads for you.
 
 ## Window Management
 
