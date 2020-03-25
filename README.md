@@ -69,3 +69,9 @@ Skitch is a fantastic screenshotting tool. Easy keyboard shortcuts, easy to add 
 [Spectacle](https://www.spectacleapp.com/)
 
 The out-of-the-box setup is good enough for me!
+
+## Shell
+
+ZSH + [Oh My ZSH](https://ohmyz.sh/) for my shell.
+
+[iTerm2](https://www.iterm2.com/) for my terminal.
