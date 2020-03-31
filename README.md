@@ -12,6 +12,7 @@ This is my preferred development setup.
 - [Screenshots](#screenshots)
 - [Window Management](#window-management)
 - [Shell](#shell)
+- [Chrome Extensions](#chrome-extensions)
 
 ## Operating System
 
@@ -86,3 +87,7 @@ The out-of-the-box setup is good enough for me!
 ZSH + [Oh My ZSH](https://ohmyz.sh/) for my shell.
 
 [iTerm2](https://www.iterm2.com/) for my terminal.
+
+## Chrome Extensions
+
+- [Google Meet Grid View](https://chrome.google.com/webstore/detail/google-meet-grid-view/bjkegbgpfgpikgkfidhcihhiflbjgfic/related)
