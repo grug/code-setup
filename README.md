@@ -3,6 +3,7 @@
 This is my preferred development setup.
 
 - [Operating System](#operating-system)
+  - [Apps](#apps)
 - [Editor](#editor)
   - [Font](#font)
   - [Editor Plugins](#editor-plugins)
@@ -17,6 +18,11 @@ This is my preferred development setup.
 ## Operating System
 
 MacOS
+
+### Apps
+
+- [AutoMute](https://github.com/yonilevy/automute)
+  - Automatically mutes my laptop when it goes to sleep or bluetooth disconnects. Saves those embarrassing moments where your headphones disconnect and your music starts blaring from your laptop speakers across the office.
 
 ## Editor
 
