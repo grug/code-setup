@@ -53,6 +53,7 @@ MacOS
 - [mauve.terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
 - [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [ms-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
+- [shd101wyy.markdown-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - [wk-j.save-and-run](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run)
 
