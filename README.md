@@ -1,6 +1,10 @@
-# my-setup
+# my-setup { ignore=true }
 
 This is my preferred development setup.
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
 
 - [Operating System](#operating-system)
   - [Apps](#apps)
@@ -14,6 +18,8 @@ This is my preferred development setup.
 - [Window Management](#window-management)
 - [Shell](#shell)
 - [Chrome Extensions](#chrome-extensions)
+
+<!-- /code_chunk_output -->
 
 ## Operating System
 
