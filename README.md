@@ -1,4 +1,4 @@
-# my-setup { ignore=true }
+# my-setup
 
 This is my preferred development setup.
 
@@ -18,6 +18,7 @@ This is my preferred development setup.
 - [Window Management](#window-management)
 - [Shell](#shell)
 - [Chrome Extensions](#chrome-extensions)
+- [Note Taking](#note-taking)
 
 <!-- /code_chunk_output -->
 
@@ -107,3 +108,9 @@ ZSH + [Oh My ZSH](https://ohmyz.sh/) for my shell.
   - Nice quality-of-life improvement for Google Meet - offers grid view (as the name suggests).
 - [LGTM](https://chrome.google.com/webstore/detail/lgtm/oeacdmeoegfagkmiecjjikpfgebmalof?hl=en)
   - How else am I supposed to tell someone their code looks good to me?
+- [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en)
+  - Saving sites straight to Notion is incredibly handy for easily curating reading lists.
+  
+ ## Note Taking
+ 
+ [Notion](https://notion.so) - I think it's brilliant for taking notes and curating reading lists. The markdown support is also fantastic and it has a non-distracting UI.
