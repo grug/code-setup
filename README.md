@@ -104,12 +104,12 @@ ZSH + [Oh My ZSH](https://ohmyz.sh/) for my shell.
 
 ## Chrome Extensions
 
-- [Google Meet Grid View](https://chrome.google.com/webstore/detail/google-meet-grid-view/bjkegbgpfgpikgkfidhcihhiflbjgfic/related)
-  - Nice quality-of-life improvement for Google Meet - offers grid view (as the name suggests).
 - [LGTM](https://chrome.google.com/webstore/detail/lgtm/oeacdmeoegfagkmiecjjikpfgebmalof?hl=en)
   - How else am I supposed to tell someone their code looks good to me?
 - [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk?hl=en)
   - Saving sites straight to Notion is incredibly handy for easily curating reading lists.
+- [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg/related?hl=en)
+  - Easy way to view and edit cookies for a site. Really helpful for dev stuff.
   
  ## Note Taking
  
